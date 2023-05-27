@@ -1,16 +1,3 @@
 # introscreens
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+when you install an app for the first time you first see an on boarding screen on the app which tells you something like features of the app, how to use the app, etc. which can be skipped to go to the app home screen or you can slowly next next and watch till the end. this is what I have tried to build in this flutter app
